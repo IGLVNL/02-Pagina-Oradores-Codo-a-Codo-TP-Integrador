@@ -6,6 +6,7 @@
         background-color: darkgrey;
         width: 98.5vw;
         height:auto;
+        text-align: center;
     }
     #hijo1{
         display: flex;
@@ -206,6 +207,10 @@
         margin-top: 0%;
     }
 
+    #titulo{
+        text-align: "center";
+    }
+
     .card-text{
         font-size: 1vw;
     }
@@ -230,6 +235,10 @@
 
     #hijo5 #foto{
         width: 45%;
+    }
+
+    #foto img{ 
+        width: 100%;
     }
 
     #hijo5 #Vertical{
@@ -342,8 +351,15 @@
         border-bottom: thin dashed;
     }
 
-    
+    #h4tp2{
+        text-align: center;
+    }
+
     textarea {
         resize: none;
         }
+
+    .av{
+        text-align: right;
+    }
 }
