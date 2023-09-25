@@ -341,4 +341,9 @@
         font-size: 1.2vw;
         border-bottom: thin dashed;
     }
+
+    
+    textarea {
+        resize: none;
+        }
 }
